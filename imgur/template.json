@@ -1,10 +1,10 @@
 {
     "Overlord Season 3": {
-        "imgur hd": "https://i.imgur.com/mqvUmFE.png",
-        "imgur lowres": "https://i.imgur.com/xYTGJ9k.png"
+        "imgur_hd": "https://i.imgur.com/mqvUmFE.png",
+        "imgur": "https://i.imgur.com/xYTGJ9k.png"
     },
     "Overlord Season 4": {
-        "imgur hd": "https://i.imgur.com/CsDhx7K.png",
-        "imgur lowres": "https://i.imgur.com/MpAxdiI.png"
+        "imgur_hd ": "https://i.imgur.com/CsDhx7K.png",
+        "imgur": "https://i.imgur.com/MpAxdiI.png"
     }
 }
